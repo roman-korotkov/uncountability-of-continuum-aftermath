@@ -1,6 +1,6 @@
 # Uncountability of continuum, aftermath
 
-[![DOI](https://zenodo.org/badge/XXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXX)
+[![DOI](https://zenodo.org/badge/1469542281.svg)](https://doi.org/10.5281/zenodo.24490642)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ## Preface
@@ -52,8 +52,8 @@ If you reference this work, please cite it via Zenodo or use the following BibTe
   year         = {2026},
   publisher    = {Zenodo},
   version      = {v0.9.0},
-  doi          = {10.5281/zenodo.XXXXXX},
-  url          = {https://doi.org/10.5281/zenodo.XXXXXX}
+  doi          = {10.5281/zenodo.24490642},
+  url          = {https://doi.org/10.5281/zenodo.24490642}
 }
 ```
 

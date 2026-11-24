@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use or reference this paper, please cite it using the metadata from this file."
 title: "Uncountability of continuum, aftermath"
-type: software
+type: preprint
 authors:
   - family-names: "Korotkov"
     given-names: "Roman"
@@ -40,7 +40,7 @@ keywords:
 license: CC-BY-4.0
 version: "0.9.0"
 date-released: "2026-11-24"
-doi: 10.5281/zenodo.XXXXXX
+doi: 10.5281/zenodo.24490642
 repository-code: "https://github.com/roman-korotkov/uncountability-of-continuum-aftermath"
 languages:
   - ru
@@ -54,7 +54,7 @@ preferred-citation:
   version: "0.9.0"
   date-released: "2026-11-24"
   year: 2026
-  doi: 10.5281/zenodo.XXXXXX
+  doi: 10.5281/zenodo.24490642
   languages:
-  - ru
+    - ru
   notes: "Preprint"
